@@ -1,8 +1,5 @@
-# Projeto-Museu-Nacional-
-Projeto desenvolvido utilizando HTML/CSS do curso:  Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos
-
-# Projeto Noticia Cidade
-Projeto de site de Notícias utilizando HTML e CSS: Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos - Udemy
+# Projeto Museu Nacional
+Projeto de site de Notícias utilizando HTML e CSS: Desenvolvimento Web Completo 2022
 
 ### Como inicar o projeto: 
 
